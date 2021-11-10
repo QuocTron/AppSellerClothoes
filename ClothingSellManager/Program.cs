@@ -17,6 +17,7 @@ namespace ClothingSellManager
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new fLogin());
+            // loading
             Application.Run(new Loading());
         }
     }
